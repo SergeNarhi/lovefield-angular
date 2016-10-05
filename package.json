@@ -1,0 +1,25 @@
+{
+  "name": "lovefield-angular",
+  "version": "0.0.1",
+  "description": "Angular wrapper for lovefield google project. Main goal of this module is to simplify experience of lovefield usage with angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lovefield",
+    "sqlite",
+    "indexeddb",
+    "websql",
+    "angular",
+    "database",
+    "local",
+    "database",
+    "cordova",
+    "database",
+    "ionic",
+    "database"
+  ],
+  "author": "Sergey Kanygin",
+  "license": "ISC"
+}
